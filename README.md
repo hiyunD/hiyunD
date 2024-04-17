@@ -1,8 +1,8 @@
-<p align="center>
+<div align=center>
   ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome+to+hiyunD's+github&fontSize=20&fontColor=FFFFFF&animation=twinkling&color=0:c8fdf9,100:3cade5&fontAlignY=40)
     
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiyunD&layout=compact)
-</p>
+</div>
 
 
 <!--
