@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+hiyunD!)](https://git.io/typing-svg)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiyunD&layout=compact)
+
 
 <!--
 **hiyunD/hiyunD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
