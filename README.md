@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+hiyunD!&color=TimeAuto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+hiyunD!&color=random)](https://git.io/typing-svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiyunD&layout=compact)
 
