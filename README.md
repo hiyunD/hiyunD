@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hi+I'm+hiyunD!&fontSize=40&animation=twinkling%color=auto)
+![header](https://capsule-render.vercel.app/api?text=Hi+I'm+hiyunD!&fontSize=40&animation=twinkling%color=000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiyunD&layout=compact)
 
