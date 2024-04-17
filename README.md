@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+hiyunD!&color=random)](https://git.io/typing-svg)
-
+![header](https://capsule-render.vercel.app/api?text=Hi%I'm%hiyunD!&fontSize=40)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiyunD&layout=compact)
 
 
