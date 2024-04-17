@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome+to+hiyunD's+git&fontSize=40&animation=twinkling&fontSize=50&color=0:c8fdf9,100:3cade5)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome+to+hiyunD's+git&fontSize=40&animation=twinkling&fontSize=60&color=0:c8fdf9,100:3cade5)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiyunD&layout=compact)
 
